@@ -1,0 +1,103 @@
+body {
+    font-family: fantasy;
+    font-size: 14pt;
+}
+
+/* apply a background image to all pages */
+body {
+    background-image:url("assets/blue_watermark_mini_dots.jpg");
+    background-repeat: repeat;
+    background-color: linen;
+}
+
+h2 {
+    padding: 20px;
+    color: teal;
+    font-size: 42pt;
+}
+/* Navigation Bar - collapses when small */
+.navbar-brand { 
+    color:teal;
+    font-size: 24pt;
+    margin-right: 1rem;
+
+}
+
+/* Trying to move navigation tags to right justify.... */
+.navbar-nav {
+    color: grey;
+    font: 26 pt;
+    justify-content: right;
+
+}
+
+.containerNav {
+    justify-content: right;
+
+}
+
+/* Text box for About Page */
+.box {
+    position: absolute;
+    top: 180px;
+    left: 90px;
+   
+}
+/* Image sizing on About Page */
+.img {
+    width: 200px;
+    float:left;
+    left: 0;
+   padding-right: 30px;
+   padding-bottom: 10px;
+   margin: 5px;
+
+
+}
+.container {
+    padding: 30px;
+
+}
+/* container for images on Portfolio page */
+.container2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 30px;
+    
+}
+
+.Submit {
+    background-color: teal;
+    border-color: teal;
+    font: bold;
+    padding: 5 px;
+
+}
+
+
+/* Formatting for images on portfolio page */
+.thumbnail {
+    padding: .8rem;
+    border: 1px solid lightslategrey;
+    margin: 6px;
+    border-radius: .15rem;
+    max-width: 100%;
+    height: auto;
+    /* vertical-align: middle; */
+}
+
+
+footer {
+    position: fixed;
+    text-align: center;
+    padding-top: 15px;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    height: 50px;
+    background-color:teal;
+    color: white;
+    text-align: center;
+    }
