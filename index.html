@@ -9,6 +9,8 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
     crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/07a3c99666.js" crossorigin="anonymous"></script>
+
   <link rel="stylesheet" type="text/css" href="style.css">
 
   <title>Homework 02</title>
@@ -17,50 +19,49 @@
 
 
 <body>
-
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="index.html">Catherine Shaw</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item">
+        <a class="navbar-brand" href="index.html">Catherine Shaw</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
             <a class="nav-link active" aria-current="page" href="index.html">About</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="portfolio.html">Portfolio</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.html" tabindex="-1" aria-disabled="true">Contact</a>
-          </li>
-        </ul>
-      </div>
+            <a class="nav-link" href="contact.html">Contact</a>
+          </div>
+        </div>
     </div>
   </nav>
-  <section class="container-sm box">
+  <div class="container-sm box">
     <div class="row gx-5">
-      <div class="col-9 col-s-9">
+      <div class="col-10">
         <div class="p-3 border bg-white">
           <h2>About Me</h2>
           <hr>
-          <div class="container">
+          <div class="container" id="main">
             <img src="assets/headshot.png" class="img rounded float-start img-about" alt="Catherine Shaw">
-             Principal at Elm Avenue Consulting. Considerable experience in Strategic and Business Planning, New
-              Ventures and Operational Reviews in both the for profit and not-for-profit industries.
-
+             <p>Principal at Elm Avenue Consulting. Considerable experience in Strategic and Business Planning, New
+              Ventures and Operational Reviews in both the for profit and not-for-profit sectors in health-related industries.</p>
               <hr>
-
-            Currently a member of the Leaside Hockey Association Board of Directors responsible for Ice Acquisition
-              and Allocation.
-           
+            <p>Currently a member of the Leaside Hockey Association Board of Directors responsible for the acquisition and allocation of ice for our competitive and house league teams.</p>
+            <p>Currently enrolled in the University of Toronto Full Stack Bootcamp.</p>
+            <div class="row" id="icons">  
+              <div class="col icns">  
+                <a href="https://www.linkedin.com/in/catherine-shaw-a91a0423"><i class="fab fa-linkedin"></i></a>
+              </div>
+              <div class="col icns" >
+                <a href="https://github.com/catherinebshaw"><i class="fab fa-github-square"></i></a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="col col-md-3"></div>
-  </section>
+    <div class="col-2">
+    </div>
+  </div>
 
   <footer class="footer">2021 - ELM Avenue </footer>
 

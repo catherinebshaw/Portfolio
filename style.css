@@ -1,5 +1,5 @@
 body {
-    font-family: fantasy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 14pt;
 }
 
@@ -16,20 +16,34 @@ h2 {
     font-size: 42pt;
 }
 /* Navigation Bar - collapses when small */
-.navbar-brand { 
+a.navbar-brand { 
     color:teal;
-    font-size: 24pt;
+    font-size: 32pt;
     margin-right: 1rem;
+    padding-left: 20px;
 
+}
+a.nav-link {
+    font: 24pt;
 }
 
 /* Trying to move navigation tags to right justify.... */
-.navbar-nav {
+ul.navbar-nav {
     color: grey;
-    font: 26 pt;
-    justify-content: right;
+    font: 26pt;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 0;
 
 }
+#navBar {
+    margin-right:0px;
+    float: right;
+}
+ div.navbar-collapse {
+    display: flex;
+    justify-content: flex-end;
+ }
 
 .containerNav {
     justify-content: right;
@@ -75,7 +89,42 @@ h2 {
     padding: 5 px;
 
 }
+i.fab {
+    padding: 20p;
+    font-size: 30px;
+    background-color: teal;
+    width: 60px;
+    margin: 10px;
+    background:white;
+    color: teal;
+}
 
+i.fa-linkedin {
+    float: right;
+    margin-right: 0px;
+    padding-right: 0px;
+    bottom: 5px;
+}
+i.fa-github-square {
+    margin-left: 0px;
+    bottom: 5px;
+}
+.icns {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 20px;
+}
+#main{ 
+    padding-bottom: 0px;
+}
+
+.card-text {
+    font-size: 10pt;
+    font-style: italic;
+}
+.card {
+    margin: 5pt;
+}
 
 /* Formatting for images on portfolio page */
 .thumbnail {
@@ -88,6 +137,13 @@ h2 {
     /* vertical-align: middle; */
 }
 
+.btn-primary {
+    align-items: center;
+    background-color: teal;
+    border: teal;
+    
+
+}
 
 footer {
     position: fixed;
