@@ -18,7 +18,7 @@ The following image captures the four main pages of the site:
 
 ![AboutMe, Porftolio, Resume and Contact pages](assets/AboutMe Images.pptx))
 
-##Live Site
+## Live Site
 
 [Catherine Shaw](https://catherinebshaw.github.io/homework02/)
  
