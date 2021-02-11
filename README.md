@@ -16,7 +16,7 @@ The site is built using HTML, CSS on a Bootstrap V5 grid system. This makes the 
 ## Mock Up
 The following image captures the four main pages of the site: 
 
-![AboutMe, Porftolio, Resume and Contact pages](assets/AboutMe Images.pptx))
+![AboutMe, Porftolio, Resume and Contact pages](assets/AboutMe Images.pptx)
 
 ## Live Site
 
