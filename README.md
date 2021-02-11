@@ -20,7 +20,7 @@ The following image captures the four main pages of the site:
 
 ##Live Site
 
-[Catherine Shaw]()
+[Catherine Shaw](https://catherinebshaw.github.io/homework02/)
  
 
 
