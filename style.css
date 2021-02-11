@@ -69,7 +69,11 @@ ul.navbar-nav {
 
 }
 .container {
-    padding: 30px;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+
 
 }
 /* container for images on Portfolio page */
@@ -91,9 +95,9 @@ ul.navbar-nav {
 }
 i.fab {
     padding: 20p;
-    font-size: 30px;
     background-color: teal;
-    width: 60px;
+    width: 70px;
+    font-size: 40px;
     margin: 10px;
     background:white;
     color: teal;
@@ -116,6 +120,8 @@ i.fa-github-square {
 }
 #main{ 
     padding-bottom: 0px;
+    margin-bottom: 30px;
+
 }
 
 .card-text {
@@ -124,6 +130,7 @@ i.fa-github-square {
 }
 .card {
     margin: 5pt;
+
 }
 
 /* Formatting for images on portfolio page */
@@ -156,4 +163,21 @@ footer {
     background-color:teal;
     color: white;
     text-align: center;
+    }
+
+    #contact {
+        border: none;
+        font-size: 18pt;
+
+    }
+    #rsmicon {
+        align-content: center;
+        width: 60px;
+
+    }
+    #download{
+        border: 3px solid teal;
+        padding: 10px;
+        border-radius: 5px;
+        
     }
