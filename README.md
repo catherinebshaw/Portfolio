@@ -1,14 +1,25 @@
 # All About Me
 
-This is a responsive website targetted to recuiters or customers searching for help with web-development.
+Welcome to a portfolio of some of my recent web development work. 
 
-## User Experience
+As an active participant of the U of T / Trilogy Coding Bootcamp (2021) I have been busy creating a number of programs with the new technologies I am exploring in the course. Some programs are group projects like the "Canada's Game" program which supports the creation of a local hockey league or the financial tracking program we called "Money for Nothing". Others are apps that highlight a new technolgy like JavaScript, HTML, CSS or a database like MySql. 
+I look forward connecting - you can reach me at:
 
-This site contains four main pages:
-* About Me - contains a short summary of my unorthodox career path and how I developed my unique skillset.
-* Portfolio - an evolving page that profiles some of my most recent work in web development.
-* Resume - provides a visual of my two-page resume.
-* Contact - allows users to find me through email, phone, github and linkedin. It also provides an opportunity to download a PDF version of my resume. 
+You can see more of my work on Github:
+
+[Github](https://github.com/catherinebshaw) 
+
+And you can reach me at LinkeIn or by email:
+
+[LinkedIn](https://www.linkedin.com/in/catherine-shaw-a91a0423/)
+
+
+[EMAIL](catherinebshaw@sympatico.ca)
+
+## About the Developer
+
+While new to Web Development, I have many, MANY years of experience with both for-profit and not-for-profit organizations. This new turn in my career was motivated by the growing and urgent need for better on-line support for organizations of every size and industry.
+
 
 ## Technology Used
 The site is built using HTML, CSS on a Bootstrap V5 grid system. This makes the site responsive to a variety of devices and is mobile friendly. 
