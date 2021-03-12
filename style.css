@@ -16,7 +16,7 @@ h2 {
     font-size: 42pt;
 }
 /* Navigation Bar - collapses when small */
-a.navbar-brand { 
+.navbar-brand { 
     color:teal;
     font-size: 32pt;
     margin-right: 1rem;
@@ -70,13 +70,16 @@ ul.navbar-nav {
 }
 .container {
     padding: 20px;
-    margin-bottom: 30px;
-    margin-top: 20px;
-
-
-
+    margin: 20px;
 }
-/* container for images on Portfolio page */
+
+#portfolio{
+    background-color: rgb(189, 189, 189);
+    border: solid teal 2px;
+    background-color: white;
+    margin-top: 30px;
+}
+    /* container for images on Portfolio page */
 .container2 {
     width: 100%;
     display: flex;
