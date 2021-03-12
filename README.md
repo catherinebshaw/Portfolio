@@ -18,7 +18,7 @@ And you can reach me at LinkeIn or by email:
 
 ## About the Developer
 
-While new to Web Development, I have many, MANY years of experience with both for-profit and not-for-profit organizations. This new turn in my career was motivated by the growing and urgent need for better on-line support for organizations of every size and industry.
+While new to Web Development, I have many, MANY years of experience with both for-profit and not-for-profit organizations. This new turn in my career was motivated by the growing and urgent need for better on-line support for organizations of every size and across many industries.
 
 
 ## Technology Used
