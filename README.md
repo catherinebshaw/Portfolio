@@ -1,4 +1,4 @@
-# All About Me
+# Portfolio - Catherine Shaw
 
 Welcome to a portfolio of some of my recent web development work. 
 
